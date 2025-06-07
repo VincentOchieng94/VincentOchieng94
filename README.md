@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vincent Ochieng</h1>
 <h3 align="center">I’m a passionate Data Analyst and a trained Health Records & Information Manager with a strong interest in transforming raw data into meaningful insights—especially within the healthcare and business intelligence sectors.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentochieng94&label=Profile%20views&color=0e75b6&style=flat" alt="vincentochieng94" /> </p>
+![giphy](https://github.com/user-attachments/assets/89b931e5-e453-4033-b8e4-09d5e1c7ff2b)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincentochieng94" alt="vincentochieng94" /></a> </p>
 
 - 🔭 I’m currently working on **several hands-on data projects.**
 
